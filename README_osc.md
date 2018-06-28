@@ -1,7 +1,7 @@
 # Hi-elk
 
 #### 项目介绍
-- ![image](https://github.com/ppabc/Hi-elk/raw/master/images/Hi-elk.png)
+- ![image](https://gitee.com/ppabccn/Hi-elk/raw/master/images/Hi-elk.png)
 Hi-elk 是基于Docker快速搭建elk服务镜像，Hi-elk采用Alpine Linux系统为底层,专注于打造最简洁最安全最稳定的elk镜像，实现快速搭建elk服务。
 
 
@@ -27,11 +27,11 @@ Hi-elk 是基于Docker快速搭建elk服务镜像，Hi-elk采用Alpine Linux系�
 
 #### 软件架构
 
-- ![image](https://github.com/ppabc/Hi-elk/raw/master/images/elk.png)
+- ![image](https://gitee.com/ppabccn/Hi-elk/raw/master/images/elk.png)
 
 #### 安装教程
 
-1. git clone git@github.com:ppabc/Hi-elk.git
+1. git clone git@gitee.com:ppabccn/Hi-elk.git
 2. cd Hi-elk/5.6.9-2g/
 3. docker build --tag elk:1.1 -f Dockerfile .
 4. docker run -d --name elk -ti -p 5601:5601 -p 5044:5044 elk:1.1
