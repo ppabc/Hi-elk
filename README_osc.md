@@ -41,13 +41,16 @@ Hi-elk 是基于Docker快速搭建elk服务镜像，Hi-elk采用Alpine Linux系�
 
 1. 使用hub.docker.com上镜像，4G以上内存服务器使用命令docker pull ppabc/hi-elk
 2. 使用hub.docker.com上镜像，2G以上内存服务器使用命令docker pull ppabc/hi-elk:2g
+3. Elk设置nginx密码,参考 https://bbs.aqzt.com/thread-567-1-1.html
 
 #### 参与贡献
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. 如果想分享或是交流的话，请加 QQ 群： 7652650 （安全运维）
+2. Email：ppabc@qq.com
+
+#### 微信关注
+
+![image](https://git.oschina.net/aqztcom/kjyw/raw/master/images/aqzt.jpg)
 
 
 
