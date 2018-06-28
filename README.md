@@ -45,6 +45,10 @@ Hi-elk 是基于Docker快速搭建elk服务镜像，Hi-elk采用Alpine Linux系�
 4. nginx日志格式参考： https://github.com/ppabc/Hi-elk/tree/master/nginx
 5. filebeat安装参考： https://github.com/ppabc/Hi-elk/tree/master/filebeat
 
+#### 效果图
+
+- ![image](https://github.com/ppabc/Hi-elk/raw/master/images/elk2018.png)
+
 #### 参与贡献
 
 1. 如果想分享或是交流的话，请加 QQ 群： 7652650 （安全运维）
