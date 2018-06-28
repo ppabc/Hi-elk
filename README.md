@@ -41,7 +41,9 @@ Hi-elk 是基于Docker快速搭建elk服务镜像，Hi-elk采用Alpine Linux系�
 
 1. 使用hub.docker.com上镜像，4G以上内存服务器使用命令docker pull ppabc/hi-elk
 2. 使用hub.docker.com上镜像，2G以上内存服务器使用命令docker pull ppabc/hi-elk:2g
-3. Elk设置nginx密码,参考 https://bbs.aqzt.com/thread-567-1-1.html
+3. Elk设置nginx密码,参考： https://bbs.aqzt.com/thread-567-1-1.html
+4. nginx日志格式参考： https://github.com/ppabc/Hi-elk/tree/master/nginx
+5. filebeat安装参考： https://github.com/ppabc/Hi-elk/tree/master/filebeat
 
 #### 参与贡献
 
